@@ -94,9 +94,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "PortfolioGGG/node_modules/bootstrap/dist/css/bootstrap-reboot.css"
             ],
-            "scripts": []
+            "scripts": [
+              "PortfolioGGG/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }

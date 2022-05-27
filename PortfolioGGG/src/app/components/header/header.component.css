@@ -1,4 +1,8 @@
 div{
-    background-color: brown;
+    background-color:darkred
 }
    
+app-redes{
+    float:right;
+    margin-top: 25px;
+}

@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { XyzComponent } from './components/xyz/xyz.component';
 import { LogoArgProgComponent } from './components/logo-arg-prog/logo-arg-prog.component';
-import { RedesComponent } from './components/redes/redes.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { InformacionGGGComponent } from './components/informacion-ggg/informacion-ggg.component';
 import { LaboralComponent } from './components/laboral/laboral.component';
@@ -22,7 +21,6 @@ import { FooterComponent } from './components/footer/footer.component';
     HeaderComponent,
     XyzComponent,
     LogoArgProgComponent,
-    RedesComponent,
     BannerComponent,
     InformacionGGGComponent,
     LaboralComponent,

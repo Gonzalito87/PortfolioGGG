@@ -1,0 +1,10 @@
+.row{
+    background-color:blanchedalmond
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

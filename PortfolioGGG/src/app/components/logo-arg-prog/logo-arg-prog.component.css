@@ -1,3 +1,21 @@
+.container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
 #LogoArgProg{
 width: 200px;
+}
+.redes{
+    margin-right: 1em;
+}
+.btn{
+    border-width: 0.3em;
+}
+img{
+    width: 50px;
+    
+}
+.redes img{
+    margin-right: 0.5em;
 }

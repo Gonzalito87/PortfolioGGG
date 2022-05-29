@@ -9,6 +9,8 @@ import { LogoArgProgComponent } from './components/logo-arg-prog/logo-arg-prog.c
 import { RedesComponent } from './components/redes/redes.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { InformacionGGGComponent } from './components/informacion-ggg/informacion-ggg.component';
+import { LaboralComponent } from './components/laboral/laboral.component';
+import { EducacionComponent } from './components/educacion/educacion.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,8 @@ import { InformacionGGGComponent } from './components/informacion-ggg/informacio
     RedesComponent,
     BannerComponent,
     InformacionGGGComponent,
+    LaboralComponent,
+    EducacionComponent,
     
   ],
   imports: [
